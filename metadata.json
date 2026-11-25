@@ -1,0 +1,6 @@
+{
+  "name": "مِحراب — مواقيت الصلاة والأذكار",
+  "description": "تطبيق إسلامي هادئ للتذكير بمواقيت الصلاة والأذكار اليومية مع تنبيهات صوتية مخصصة.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
